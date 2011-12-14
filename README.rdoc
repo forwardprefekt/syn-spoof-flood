@@ -1,0 +1,7 @@
+= Introduction
+
+It's a simple script to do ddos attack (syn flood) and it also use ip spoof technique. Every package that it send go with a different ip address.
+
+I did it just to proof of concept about a paper work at university. To demonstrate two attack techniques.
+
+Don't use it to do bad things. Just to learn about security.

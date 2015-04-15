@@ -1,11 +1,9 @@
 = Introduction
 
-It's a simple script that to do ddos attack (syn flood) and it also use ip spoof technique. Every package that it send go with a different ip address.
+basic syn packet generator
 
-I did it just to proof of concept about a paper work at university. To demonstrate two attack techniques.
-
-Don't use it to do bad things. Just to learn about security.
-
-It is an old script, I did it in 2008/2009.
-
-Blog post about it (portuguese): http://www.lucasallan.com/2009/11/02/synspoofflood/
+Required args:
+        -c count of packets to send
+        -t real target ip4 address (1.2.3.4)
+        -s spoofed source ip4 address (1.2.3.4)
+        -p target port
